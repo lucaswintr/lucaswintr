@@ -1,8 +1,7 @@
 <h1 align="center">hi, lucas here. </h1>
 <div align="center">
- 🌱 i’m currently learning cybersecurity & ethical hacking. 
-
- 👨‍💻 studying computer science 
+ 🌱 i’m currently learning cybersecurity & ethical hacking. <br><br>
+ 👨‍💻 studying computer science <br><br>
 
  💬 ask me about video games
   
