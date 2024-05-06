@@ -2,12 +2,6 @@
  <p align="center"><b>hi, lucas here. </b></p>
  <hr>
  🌱 i’m currently learning cybersecurity & ethical hacking. <br><br>
- 👨‍💻 studying computer science <br><br>
-
- 💬 ask me about video games
-  
- 📫 How to reach me **yc9** (discord)
-
  languages - portuguese, english & spanish.
 </p>
 </div>
